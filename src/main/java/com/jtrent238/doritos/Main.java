@@ -80,7 +80,7 @@ public void init(FMLInitializationEvent event)
 
 	ItemLoader.LoadItems();
 	//BlockLoader.loadBlocks();
-	//Recipes.registerRecpies();
+	Recipes.registerRecpies();
 	//EntityLoader.LoadYouTubers();
 	//EntityLoader.LoadPlayers();
 	//OreDict.addores();
@@ -90,6 +90,7 @@ public void init(FMLInitializationEvent event)
 	
 	
 	proxy.registerRenderThings();
+	LootRegistry.registerLoot();
 }
 
 

@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "doritos:items/dinamita_fiery_habanero_bag"
+    }
+}

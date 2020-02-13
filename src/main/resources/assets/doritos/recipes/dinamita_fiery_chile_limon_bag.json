@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "XXX",
+        "XXX",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "doritos:dinamita_fiery_chile_limon_chip"
+        }
+    },
+    "result": {
+        "item": "doritos:dinamita_fiery_chile_limon_bag",
+        "count": 1
+    }
+}

@@ -1,0 +1,5 @@
+jtrent238's Doritos Mod Changelog
+
+2.0.0.0
+- Updated to Minecraft 1.12.2
+- Added Crafting recipes for Doritos Chips & Bags

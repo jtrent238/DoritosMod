@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X"
+    ],
+    "key": {
+        "X": {
+            "item": "doritos:toasted_corn_bag"
+        }
+    },
+    "result": {
+        "item": "doritos:toasted_corn_chip",
+        "count": 9
+    }
+}

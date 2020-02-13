@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X"
+    ],
+    "key": {
+        "X": {
+            "item": "doritos:spicy_nacho_bag"
+        }
+    },
+    "result": {
+        "item": "doritos:spicy_nacho_chip",
+        "count": 9
+    }
+}

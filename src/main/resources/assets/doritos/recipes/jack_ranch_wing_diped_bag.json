@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "XXX",
+        "XXX",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "doritos:jack_ranch_wing_diped_chip"
+        }
+    },
+    "result": {
+        "item": "doritos:jack_ranch_wing_diped_bag",
+        "count": 1
+    }
+}
